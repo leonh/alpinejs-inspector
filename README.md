@@ -9,3 +9,11 @@ An intentionally simple drop in script that allows you to inspect the state of A
 <img width="56" height="56" alt="Screenshot 2025-09-10 at 11 40 28" src="https://github.com/user-attachments/assets/6225c89f-d1bb-4336-8f26-0678d37334fe" />
 
 If you want a more full-featured debugger then there is a official paid one that the Alpine js devs maintain. If your needs are simple then this might suffice :-)  
+
+
+#setup
+after you load alpine load the script. eg.
+```
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<script src="/replace-with-your-path-to/alpine-store-debugger.js"></script>
+```
